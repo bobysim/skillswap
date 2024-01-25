@@ -34,6 +34,7 @@ li a {
     padding: 14px 16px;
     text-decoration: none;
     margin-right: 20px;
+    color: black;
 }
 
 .btn-hero {
@@ -51,6 +52,10 @@ li a {
 
 a:hover {
     color: #EE4878;
+}
+
+a:visited {
+    color: black;
 }
 
 .body {
