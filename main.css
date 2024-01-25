@@ -7,7 +7,7 @@ body {
 .hero-section {
     display: flex;
     justify-content: space-between;
-    margin-right: 100px;
+    margin-right: 45px;
 }
 
 .nav-hero {
@@ -59,7 +59,7 @@ a:visited {
 
 .body {
     text-align: center;
-    margin-top: 130px;
+    margin-top: 120px;
     font-size: 20px;
 }
 
@@ -77,7 +77,7 @@ a:visited {
     padding-left: 30px;
     margin-top: 5px;
     color: white;
-    font-size: 18px;
+    font-size: 19px;
     font-family: inherit;
 }
 
