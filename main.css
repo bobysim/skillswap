@@ -1,6 +1,6 @@
 body {
     font-family: 'Poppins', sans-serif;
-    margin-top: 0;
+    margin: 0;
     margin-right: 100px;
     padding: 0;
 }
@@ -8,6 +8,7 @@ body {
 .hero-section {
     display: flex;
     justify-content: space-between;
+    margin-right: 0px;
 }
 
 .nav-hero {
@@ -33,7 +34,6 @@ li a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    margin-right: 20px;
     color: black;
 }
 
